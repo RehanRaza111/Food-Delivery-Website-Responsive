@@ -17,15 +17,16 @@
 /* 
 Home Section */
 #home{
-    border: 2px solid green;
+    /* border: 2px solid green; */
     height: 600px;
+    
 
     
 }
 
 #home::before{
 
-    height:700px;
+    height:720px;
     
 }
 
